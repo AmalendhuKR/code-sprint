@@ -2,6 +2,8 @@
 // https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/3247/
 
 var removeElement = function (nums, val) {
+  // Worst Time Complexity: O(n**2)
+  // Space Complexity: O(1)
   let length = nums.length;
   for (let index = 0; index < length; index++) {
     if (nums[index] === val) {

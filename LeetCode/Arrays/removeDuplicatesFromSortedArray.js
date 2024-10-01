@@ -1,3 +1,6 @@
+// Remove Duplicates From Sorted Array
+// https://leetcode.com/explore/learn/card/fun-with-arrays/526/deleting-items-from-an-array/
+
 /**
  * @param {number[]} nums
  * @return {number}

@@ -1,1 +1,1 @@
-<!-- Array Notes -->
+<!-- https://javascript.info/array -->
